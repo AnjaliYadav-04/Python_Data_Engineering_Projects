@@ -1,0 +1,7 @@
+line,reason,name,email,age,city,signup_date
+7,invalid email 'farhan.ali@example',Farhan Ali,farhan.ali@example,29,Chennai,2024-05-09
+8,name is empty,,no.name@example.com,31,Kolkata,2024-06-11
+9,age not an integer: 'abc',Kavya Pillai,kavya.pillai@example.com,abc,Kochi,2024-06-18
+10,duplicate email in file (first at line 2),Aditi S.,aditi.sharma@example.com,28,Mumbai,2024-07-02
+11,age 150 out of range,Manish Tiwari,manish.tiwari@example.com,150,Lucknow,2024-07-19
+12,unrecognised date '2024-13-40',Riya Bose,riya.bose@example.com,26,Kolkata,2024-13-40
