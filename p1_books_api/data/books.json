@@ -1,0 +1,20 @@
+[
+  {"title": "Pride and Prejudice", "author": "Jane Austen", "publication_year": 1813, "genre": "Romance"},
+  {"title": "Frankenstein", "author": "Mary Shelley", "publication_year": 1818, "genre": "Gothic"},
+  {"title": "Moby-Dick", "author": "Herman Melville", "publication_year": 1851, "genre": "Adventure"},
+  {"title": "Great Expectations", "author": "Charles Dickens", "publication_year": 1861, "genre": "Literary Fiction"},
+  {"title": "Crime and Punishment", "author": "Fyodor Dostoevsky", "publication_year": 1866, "genre": "Literary Fiction"},
+  {"title": "The Picture of Dorian Gray", "author": "Oscar Wilde", "publication_year": 1890, "genre": "Gothic"},
+  {"title": "Gitanjali", "author": "Rabindranath Tagore", "publication_year": 1910, "genre": "Poetry"},
+  {"title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "publication_year": 1925, "genre": "Literary Fiction"},
+  {"title": "Brave New World", "author": "Aldous Huxley", "publication_year": 1932, "genre": "Science Fiction"},
+  {"title": "Nineteen Eighty-Four", "author": "George Orwell", "publication_year": 1949, "genre": "Science Fiction"},
+  {"title": "Things Fall Apart", "author": "Chinua Achebe", "publication_year": 1958, "genre": "Literary Fiction"},
+  {"title": "To Kill a Mockingbird", "author": "Harper Lee", "publication_year": 1960, "genre": "Literary Fiction"},
+  {"title": "Dune", "author": "Frank Herbert", "publication_year": 1965, "genre": "Science Fiction"},
+  {"title": "Midnight's Children", "author": "Salman Rushdie", "publication_year": 1981, "genre": "Magical Realism"},
+  {"title": "The God of Small Things", "author": "Arundhati Roy", "publication_year": 1997, "genre": "Literary Fiction"},
+  {"title": "The White Tiger", "author": "Aravind Adiga", "publication_year": 2008, "genre": "Literary Fiction"},
+  {"title": "Untitled Manuscript", "author": "", "publication_year": 2001, "genre": "Unknown"},
+  {"title": "Lost Almanac", "author": "Anonymous", "publication_year": "unknown", "genre": "Reference"}
+]
