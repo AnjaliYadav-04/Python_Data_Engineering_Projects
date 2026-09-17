@@ -1,0 +1,302 @@
+[
+  {
+    "student_id": "S001",
+    "name": "Aarav Mehta",
+    "subject": "Mathematics",
+    "score": 47
+  },
+  {
+    "student_id": "S001",
+    "name": "Aarav Mehta",
+    "subject": "Physics",
+    "score": 70
+  },
+  {
+    "student_id": "S001",
+    "name": "Aarav Mehta",
+    "subject": "Chemistry",
+    "score": 55
+  },
+  {
+    "student_id": "S001",
+    "name": "Aarav Mehta",
+    "subject": "English",
+    "score": 54
+  },
+  {
+    "student_id": "S002",
+    "name": "Priya Nair",
+    "subject": "Mathematics",
+    "score": 58
+  },
+  {
+    "student_id": "S002",
+    "name": "Priya Nair",
+    "subject": "Physics",
+    "score": 77
+  },
+  {
+    "student_id": "S002",
+    "name": "Priya Nair",
+    "subject": "Chemistry",
+    "score": 57
+  },
+  {
+    "student_id": "S002",
+    "name": "Priya Nair",
+    "subject": "English",
+    "score": 75
+  },
+  {
+    "student_id": "S003",
+    "name": "Rohan Iyer",
+    "subject": "Mathematics",
+    "score": 76
+  },
+  {
+    "student_id": "S003",
+    "name": "Rohan Iyer",
+    "subject": "Physics",
+    "score": 92
+  },
+  {
+    "student_id": "S003",
+    "name": "Rohan Iyer",
+    "subject": "Chemistry",
+    "score": 87
+  },
+  {
+    "student_id": "S003",
+    "name": "Rohan Iyer",
+    "subject": "English",
+    "score": 75
+  },
+  {
+    "student_id": "S004",
+    "name": "Sneha Kulkarni",
+    "subject": "Mathematics",
+    "score": 43
+  },
+  {
+    "student_id": "S004",
+    "name": "Sneha Kulkarni",
+    "subject": "Physics",
+    "score": 47
+  },
+  {
+    "student_id": "S004",
+    "name": "Sneha Kulkarni",
+    "subject": "Chemistry",
+    "score": 48
+  },
+  {
+    "student_id": "S004",
+    "name": "Sneha Kulkarni",
+    "subject": "English",
+    "score": 57
+  },
+  {
+    "student_id": "S005",
+    "name": "Vikram Singh",
+    "subject": "Mathematics",
+    "score": 58
+  },
+  {
+    "student_id": "S005",
+    "name": "Vikram Singh",
+    "subject": "Physics",
+    "score": 47
+  },
+  {
+    "student_id": "S005",
+    "name": "Vikram Singh",
+    "subject": "Chemistry",
+    "score": 63
+  },
+  {
+    "student_id": "S005",
+    "name": "Vikram Singh",
+    "subject": "English",
+    "score": 61
+  },
+  {
+    "student_id": "S006",
+    "name": "Ananya Rao",
+    "subject": "Mathematics",
+    "score": 87
+  },
+  {
+    "student_id": "S006",
+    "name": "Ananya Rao",
+    "subject": "Physics",
+    "score": 81
+  },
+  {
+    "student_id": "S006",
+    "name": "Ananya Rao",
+    "subject": "Chemistry",
+    "score": 88
+  },
+  {
+    "student_id": "S006",
+    "name": "Ananya Rao",
+    "subject": "English",
+    "score": 92
+  },
+  {
+    "student_id": "S007",
+    "name": "Kabir Shah",
+    "subject": "Mathematics",
+    "score": 82
+  },
+  {
+    "student_id": "S007",
+    "name": "Kabir Shah",
+    "subject": "Physics",
+    "score": 84
+  },
+  {
+    "student_id": "S007",
+    "name": "Kabir Shah",
+    "subject": "Chemistry",
+    "score": 57
+  },
+  {
+    "student_id": "S007",
+    "name": "Kabir Shah",
+    "subject": "English",
+    "score": 81
+  },
+  {
+    "student_id": "S008",
+    "name": "Isha Deshpande",
+    "subject": "Mathematics",
+    "score": 72
+  },
+  {
+    "student_id": "S008",
+    "name": "Isha Deshpande",
+    "subject": "Physics",
+    "score": 63
+  },
+  {
+    "student_id": "S008",
+    "name": "Isha Deshpande",
+    "subject": "Chemistry",
+    "score": 60
+  },
+  {
+    "student_id": "S008",
+    "name": "Isha Deshpande",
+    "subject": "English",
+    "score": 58
+  },
+  {
+    "student_id": "S009",
+    "name": "Arjun Menon",
+    "subject": "Mathematics",
+    "score": 55
+  },
+  {
+    "student_id": "S009",
+    "name": "Arjun Menon",
+    "subject": "Physics",
+    "score": 73
+  },
+  {
+    "student_id": "S009",
+    "name": "Arjun Menon",
+    "subject": "Chemistry",
+    "score": 59
+  },
+  {
+    "student_id": "S009",
+    "name": "Arjun Menon",
+    "subject": "English",
+    "score": 52
+  },
+  {
+    "student_id": "S010",
+    "name": "Meera Joshi",
+    "subject": "Mathematics",
+    "score": 57
+  },
+  {
+    "student_id": "S010",
+    "name": "Meera Joshi",
+    "subject": "Physics",
+    "score": 48
+  },
+  {
+    "student_id": "S010",
+    "name": "Meera Joshi",
+    "subject": "Chemistry",
+    "score": 56
+  },
+  {
+    "student_id": "S010",
+    "name": "Meera Joshi",
+    "subject": "English",
+    "score": 72
+  },
+  {
+    "student_id": "S011",
+    "name": "Dev Patel",
+    "subject": "Mathematics",
+    "score": 81
+  },
+  {
+    "student_id": "S011",
+    "name": "Dev Patel",
+    "subject": "Physics",
+    "score": 70
+  },
+  {
+    "student_id": "S011",
+    "name": "Dev Patel",
+    "subject": "Chemistry",
+    "score": 87
+  },
+  {
+    "student_id": "S011",
+    "name": "Dev Patel",
+    "subject": "English",
+    "score": 63
+  },
+  {
+    "student_id": "S012",
+    "name": "Tanvi Gupta",
+    "subject": "Mathematics",
+    "score": 86
+  },
+  {
+    "student_id": "S012",
+    "name": "Tanvi Gupta",
+    "subject": "Physics",
+    "score": 72
+  },
+  {
+    "student_id": "S012",
+    "name": "Tanvi Gupta",
+    "subject": "Chemistry",
+    "score": 81
+  },
+  {
+    "student_id": "S012",
+    "name": "Tanvi Gupta",
+    "subject": "English",
+    "score": 71
+  },
+  {
+    "student_id": "S013",
+    "name": "Late Entry",
+    "subject": "Mathematics",
+    "score": null
+  },
+  {
+    "student_id": "S014",
+    "name": "Typo Record",
+    "subject": "Physics",
+    "score": 112
+  }
+]

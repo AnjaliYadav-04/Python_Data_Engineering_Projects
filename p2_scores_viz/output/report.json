@@ -1,0 +1,157 @@
+{
+  "records_analysed": 48,
+  "class": {
+    "mean": 67.4,
+    "median": 66.5,
+    "stdev": 13.94,
+    "min": 43.0,
+    "max": 92.0,
+    "pass_rate_pct": 87.5
+  },
+  "students": [
+    {
+      "student_id": "S006",
+      "name": "Ananya Rao",
+      "average": 87.0,
+      "grade": "A",
+      "passed": true
+    },
+    {
+      "student_id": "S003",
+      "name": "Rohan Iyer",
+      "average": 82.5,
+      "grade": "B",
+      "passed": true
+    },
+    {
+      "student_id": "S012",
+      "name": "Tanvi Gupta",
+      "average": 77.5,
+      "grade": "B",
+      "passed": true
+    },
+    {
+      "student_id": "S007",
+      "name": "Kabir Shah",
+      "average": 76.0,
+      "grade": "B",
+      "passed": true
+    },
+    {
+      "student_id": "S011",
+      "name": "Dev Patel",
+      "average": 75.25,
+      "grade": "B",
+      "passed": true
+    },
+    {
+      "student_id": "S002",
+      "name": "Priya Nair",
+      "average": 66.75,
+      "grade": "C",
+      "passed": true
+    },
+    {
+      "student_id": "S008",
+      "name": "Isha Deshpande",
+      "average": 63.25,
+      "grade": "C",
+      "passed": true
+    },
+    {
+      "student_id": "S009",
+      "name": "Arjun Menon",
+      "average": 59.75,
+      "grade": "D",
+      "passed": true
+    },
+    {
+      "student_id": "S010",
+      "name": "Meera Joshi",
+      "average": 58.25,
+      "grade": "D",
+      "passed": true
+    },
+    {
+      "student_id": "S005",
+      "name": "Vikram Singh",
+      "average": 57.25,
+      "grade": "D",
+      "passed": true
+    },
+    {
+      "student_id": "S001",
+      "name": "Aarav Mehta",
+      "average": 56.5,
+      "grade": "D",
+      "passed": true
+    },
+    {
+      "student_id": "S004",
+      "name": "Sneha Kulkarni",
+      "average": 48.75,
+      "grade": "F",
+      "passed": false
+    }
+  ],
+  "subjects": {
+    "Chemistry": {
+      "mean": 66.5,
+      "stdev": 14.74,
+      "n": 12
+    },
+    "English": {
+      "mean": 67.58,
+      "stdev": 12.11,
+      "n": 12
+    },
+    "Mathematics": {
+      "mean": 66.83,
+      "stdev": 15.58,
+      "n": 12
+    },
+    "Physics": {
+      "mean": 68.67,
+      "stdev": 14.87,
+      "n": 12
+    }
+  },
+  "grade_distribution": {
+    "F": 1,
+    "D": 4,
+    "C": 2,
+    "B": 4,
+    "A": 1
+  },
+  "top_3": [
+    "Ananya Rao",
+    "Rohan Iyer",
+    "Tanvi Gupta"
+  ],
+  "bottom_3": [
+    "Sneha Kulkarni",
+    "Aarav Mehta",
+    "Vikram Singh"
+  ],
+  "data_source": "local mock API (offline)",
+  "rejected_records": [
+    {
+      "record": {
+        "student_id": "S013",
+        "name": "Late Entry",
+        "subject": "Mathematics",
+        "score": null
+      },
+      "reason": "missing score"
+    },
+    {
+      "record": {
+        "student_id": "S014",
+        "name": "Typo Record",
+        "subject": "Physics",
+        "score": 112
+      },
+      "reason": "score 112.0 outside 0-100"
+    }
+  ]
+}
