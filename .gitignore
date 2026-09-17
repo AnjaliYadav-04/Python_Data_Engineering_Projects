@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# SQLite databases (created automatically when scripts run)
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+
+# Generated outputs
+p2_scores_viz/output/
+p3_csv_import/data/*_rejects.csv
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
