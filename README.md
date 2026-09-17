@@ -9,6 +9,11 @@ Three independent mini-projects covering the core data-engineering loop:
 | 2 | [`p2_scores_viz/`](p2_scores_viz/) | Data processing and visualization | JSON endpoint hosted in this repository (fetched over HTTPS) | Average score + bar-chart dashboard (PNG) + JSON report |
 | 3 | [`p3_csv_import/`](p3_csv_import/) | CSV import to a database | `data/users.csv` | SQLite database + rejects CSV |
 
+## Preview
+Project 2 output - student score dashboard:
+
+![Score dashboard](docs/score_dashboard.png)
+
 ## Quick start
 ```
 git clone https://github.com/AnjaliYadav-04/Python_Data_Engineering_Projects.git
@@ -22,6 +27,7 @@ cd p1_books_api  && python books_pipeline.py                  && cd ..
 cd p2_scores_viz && python scores_analysis.py                 && cd ..
 cd p3_csv_import && python csv_to_sqlite.py data/users.csv    && cd ..
 ```
+   ![Score dashboard](docs/score_dashboard.png)
 
 | Project | Common options |
 |---|---|
