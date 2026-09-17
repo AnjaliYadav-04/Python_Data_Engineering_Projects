@@ -27,7 +27,6 @@ cd p1_books_api  && python books_pipeline.py                  && cd ..
 cd p2_scores_viz && python scores_analysis.py                 && cd ..
 cd p3_csv_import && python csv_to_sqlite.py data/users.csv    && cd ..
 ```
-   ![Score dashboard](docs/score_dashboard.png)
 
 | Project | Common options |
 |---|---|
